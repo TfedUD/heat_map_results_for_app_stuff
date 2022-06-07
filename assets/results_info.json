@@ -1,0 +1,21 @@
+{
+    "data_type": {
+        "name": "Operative Temperature",
+        "data_type": "OperativeTemperature",
+        "type": "DataTypeBase"
+    },
+    "unit": "C",
+    "analysis_period": {
+        "st_month": 1,
+        "st_day": 1,
+        "st_hour": 0,
+        "end_month": 12,
+        "end_day": 31,
+        "end_hour": 23,
+        "timestep": 1,
+        "is_leap_year": false,
+        "type": "AnalysisPeriod"
+    },
+    "metadata": {},
+    "type": "Header"
+}

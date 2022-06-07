@@ -1,0 +1,26 @@
+[
+  {
+    "count": 104,
+    "name": "TestRoom_1",
+    "identifier": "TestRoom_1",
+    "group": "",
+    "full_id": "TestRoom_1",
+    "light_path": [
+      [
+        "static_apertures"
+      ]
+    ]
+  },
+  {
+    "count": 117,
+    "name": "TestRoom_2",
+    "identifier": "TestRoom_2",
+    "group": "",
+    "full_id": "TestRoom_2",
+    "light_path": [
+      [
+        "static_apertures"
+      ]
+    ]
+  }
+]
